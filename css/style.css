@@ -1,0 +1,7 @@
+/* Här kan ni ändra utseendet */
+
+.fall{
+    opacity: 0 !important;
+    transform: translateY(30px);
+    transition: .5s;
+}
